@@ -1,5 +1,4 @@
-# battle-snake
-#CIIC-3015 Final Project
+# Battle-Snake Project
 
 This is a simple battle-snake made in Python using AWS technologies and the BattleSnake API. 
 
